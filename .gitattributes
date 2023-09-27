@@ -1,0 +1,6 @@
+*.c linguist-language=C
+*.h linguist-language=C
+*.cpp linguist-vendored
+*.hpp linguist-vendored
+*.cxx linguist-vendored
+*.hxx linguist-vendored
